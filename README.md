@@ -12,6 +12,7 @@ have a dataset of customers. As a data professional, you need to analyze the dat
 
 
 
+
 - What type of restaurant do the majority of customers order from?
   
 - How many votes has each type of restaurant received from customers?
