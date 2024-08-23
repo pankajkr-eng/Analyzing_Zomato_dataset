@@ -11,8 +11,6 @@ have a dataset of customers. As a data professional, you need to analyze the dat
 (Exploratory Data Analysis) and visualization, and answer the following questions:
 
 
-
-
 - What type of restaurant do the majority of customers order from?
   
 - How many votes has each type of restaurant received from customers?
