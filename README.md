@@ -25,3 +25,5 @@ have a dataset of customers. As a data professional, you need to analyze the dat
   
 - Which type of restaurant received more offline orders, so that Zomato can provide those 
   customers with some good offers?
+
+[zomato-project-code.pdf](https://github.com/user-attachments/files/16726921/zomato-project-code.pdf)
